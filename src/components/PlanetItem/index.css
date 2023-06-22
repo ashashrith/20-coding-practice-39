@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.list {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.img {
+  height: 40vh;
+  width: 50vh;
+  background-size: cover;
+}
+
+.name {
+  font-size: 20px;
+  color: white;
+}
+
+.para {
+  font-size: 15px;
+  color: aliceblue;
+  font-family: 'Roboto';
+}
